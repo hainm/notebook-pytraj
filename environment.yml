@@ -4,5 +4,4 @@ dependencies:
   - python=3.4
   - numpy
   - pandas
-  - conda:
-    - pytraj-dev libcpptraj-dev -c ambermd
+  #- pytraj-dev libcpptraj-dev -c ambermd
