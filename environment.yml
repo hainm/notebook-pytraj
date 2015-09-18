@@ -1,5 +1,6 @@
 name: notebook-pytraj
 dependencies:
+- python=3.4
 - libcpptraj-dev
 - pytraj-dev
 
