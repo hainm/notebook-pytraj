@@ -3,6 +3,11 @@ dependencies:
 - python=2.7
 - libcpptraj-dev
 - pytraj-dev
+- scipy
+- pandas
+- sklearn
+- matplotlib
+- seaborn
 
 channels:
   - ambermd
