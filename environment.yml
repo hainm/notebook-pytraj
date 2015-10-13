@@ -1,6 +1,6 @@
 name: notebook-pytraj
 dependencies:
-- python=2.7
+- python=3.4
 - libcpptraj-dev
 - lapackamber
 - blasamber
