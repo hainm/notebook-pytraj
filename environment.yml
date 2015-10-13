@@ -2,11 +2,15 @@ name: notebook-pytraj
 dependencies:
 - python=2.7
 - libcpptraj-dev
+- lapackamber
+- blasamber
+- arpack
 - pytraj-dev
 - numpy
 - matplotlib
 - pandas
 - scikit-learn
+- scipy
 
 channels:
   - ambermd
