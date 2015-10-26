@@ -12,6 +12,7 @@ dependencies:
 - scikit-learn
 - scipy
 - mpi4py
+- mdview
 
 channels:
   - ambermd
