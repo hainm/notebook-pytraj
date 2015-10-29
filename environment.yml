@@ -1,10 +1,6 @@
 name: notebook-pytraj
 dependencies:
 - python=3.4
-- libcpptraj-dev
-- lapackamber
-- blasamber
-- arpack
 - pytraj-dev
 - numpy
 - matplotlib
@@ -13,6 +9,9 @@ dependencies:
 - scipy
 - mpi4py
 - mdview
+- chemview
+- jupyter
+#- ipython-notebook
 
 channels:
   - ambermd
