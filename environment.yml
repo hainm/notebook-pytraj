@@ -8,10 +8,9 @@ dependencies:
 - scikit-learn
 - scipy
 - mpi4py
-- mdview
 - chemview
 - jupyter
-#- ipython-notebook
+- nglview
 
 channels:
   - ambermd
