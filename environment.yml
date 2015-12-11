@@ -11,7 +11,9 @@ dependencies:
 - chemview
 - jupyter
 - nglview
+- parmed
 
 channels:
   - ambermd
   - anaconda
+  - omnia
