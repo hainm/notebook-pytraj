@@ -10,8 +10,8 @@ dependencies:
 - mpi4py
 - jupyter
 - nglview
-- parmed
 - pysander
+- parmed
 channels:
   - ambermd
   - anaconda
