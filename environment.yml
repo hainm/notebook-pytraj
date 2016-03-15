@@ -8,7 +8,6 @@ dependencies:
 - scikit-learn
 - scipy
 - mpi4py
-- chemview
 - jupyter
 - nglview
 - parmed
