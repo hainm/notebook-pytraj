@@ -12,8 +12,6 @@ dependencies:
 - nglview
 - parmed
 - pysander
-
 channels:
   - ambermd
   - anaconda
-  - omnia
