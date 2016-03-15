@@ -12,6 +12,7 @@ dependencies:
 - jupyter
 - nglview
 - parmed
+- pysander
 
 channels:
   - ambermd
