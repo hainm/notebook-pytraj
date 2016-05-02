@@ -9,7 +9,7 @@ dependencies:
 - scipy
 - mpi4py
 - jupyter
-- nglview
+- nglview-dev
 - parmed
 channels:
   - ambermd
