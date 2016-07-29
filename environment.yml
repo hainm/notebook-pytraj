@@ -1,16 +1,15 @@
 name: notebook-pytraj
 dependencies:
 - python=3.4
-- pytraj=1.0.3
+- pytraj=1.0.7
 - numpy
 - matplotlib
 - pandas
-- scikit-learn
-- scipy
 - mpi4py
 - jupyter
-- nglview-dev
+- nglview=0.5.2
 - parmed
 channels:
   - ambermd
+  - bioconda
   - anaconda

@@ -1,3 +1,2 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/hainm/notebook-pytraj)
-
-Try pytraj/cpptraj online
+Source: trajectory and prmtop files are converted from dcd and psf files from
+http://www.ks.uiuc.edu/Training/Tutorials/ (Membrane Proteins Tutorial section)
