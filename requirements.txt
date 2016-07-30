@@ -1,0 +1,7 @@
+pytraj
+numpy
+matplotlib
+pandas
+mpi4py
+jupyter
+nglview
