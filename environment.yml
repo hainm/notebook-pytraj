@@ -1,7 +1,7 @@
 name: notebook-pytraj
 dependencies:
-- python=3.4
-- pytraj=1.0.7
+- python=3.5
+- pytraj
 - numpy
 - matplotlib
 - pandas
